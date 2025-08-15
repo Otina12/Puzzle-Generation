@@ -20,11 +20,6 @@ Turn any image into a jigsaw style puzzle, then save each piece as its own PNG w
 ## Install
 
 Python 3.8 or newer is recommended.
-
-```bash
-pip install -r requirements.txt
-```
-
 The project uses Pillow and NumPy.
 
 ---
